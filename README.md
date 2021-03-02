@@ -18,6 +18,14 @@ MangoOffice Statistic это приложение для просмотра ис
   - Выбор периода для истории звонков
   - Выгрузка сводной статистики по исходящим звонкам в xls
   
+####Screenshots:
+
+![Image alt](screenshots/11.jpg "Вкладка подключения")
+![Image alt](screenshots/12.jpg "Вкладка параметров запроса")
+![Image alt](screenshots/13.jpg "Результаты запроса")
+![Image alt](screenshots/14.jpg "Пример отчета")
+
+
 ### Todos
 
  - Возможность запоминать последние учетные данные для авторизации на сервисе Mango Office
